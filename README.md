@@ -20,9 +20,12 @@ Data visualization using Recharts
 
 **Quick Start**
 
-git clone https://github.com/YOUR_USERNAME/esg-analytics-platform.git
+git clone (https://github.com/nandeesh88/ESG-Analytics-Platform)
+
 cd esg-analytics-platform
+
 npm install
+
 npm run dev
 
 **ESG Logic**
